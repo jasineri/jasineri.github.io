@@ -565,9 +565,9 @@ div.footnotes * {
 .ico-antisp {
 	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ctext fill='%23544d4d' font-family='sans-serif' font-size='12' y='10' %3E%3Ctspan%3Einfo%3C/tspan%3E%3Ctspan%3E@%3C/tspan%3E%3Ctspan%3Ejasineri.de%3C/tspan%3E%3C/text%3E%3C/svg%3E");
 	width: 96px;
-	height: 12px;
+	height: 13px;
 	display: inline-block;
-	margin: -2px 0;
+	margin: -3px 0;
 }
 .ico-logo {
 	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='none' stroke='%2320c2ff' stroke-linecap='round' stroke-width='1.143' d='M8.634 3.305c-.573-.333-1.186-.407-1.777-.448a4 4 0 00-4 4v1.714m10.857-8a1.714 1.714 0 011.714 1.715v6.857a6.286 6.286 0 01-6.285 6.286H2.286A1.714 1.714 0 01.57 13.714V6.857A6.286 6.286 0 016.857.571zM2.857 10.858h6.286a1.714 1.714 0 001.714-1.714V2.857m2.286 0v6.287a4 4 0 01-4 4H2.857M8.571 8.57V6.857a1.714 1.714 0 00-1.714-1.714 1.714 1.714 0 00-1.714 1.714v1.714'/%3E%3C/svg%3E");
