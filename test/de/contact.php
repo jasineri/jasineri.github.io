@@ -28,7 +28,7 @@
 </style>
 <!-- InstanceBeginEditable name="CSSs" -->
 <base href="http://www.jasineri.de/de/"/>
-<link href="../css/jasineri_hp.css?v=16" rel="stylesheet" type="text/css" />
+<link href="../css/jasineri_hp.css?v=17" rel="stylesheet" type="text/css" />
 <!-- InstanceEndEditable -->
 <link href="../images/logo.ico" rel="shortcut icon"/>
 <!-- InstanceBeginEditable name="head" -->
