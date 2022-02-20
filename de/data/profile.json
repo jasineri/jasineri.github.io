@@ -285,7 +285,7 @@
           ]
         },
         {
-          "name": "JavaScript",
+          "name": "JavaScript; TypeScript",
           "children": [
             {
               "name": "AJAX"

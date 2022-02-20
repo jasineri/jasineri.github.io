@@ -217,6 +217,6 @@ if (!$transferOK) {
 		</div>
 	</div>
 </div>
-<script type="text/javascript" src="../js/load.js?v=42"></script>
+<script type="text/javascript" src="../js/load.js?v=43"></script>
 
 <!-- InstanceEnd --></html>
