@@ -527,6 +527,10 @@
             {
               "name": "Nightmare (≥v3.x)"
             }
+          ,
+            {
+              "name": "Playwright (≥v1.x)"
+            }
           ]
         },
         {
