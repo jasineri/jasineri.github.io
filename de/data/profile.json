@@ -398,7 +398,7 @@
           "name": "Proprietäre Protokolle"
         },
         {
-          "name": "UART (FT232X, CH340X)"
+          "name": "HW: UART, SPI, I2C/SMBus"
         },
         {
           "name": "RS232 PIC 18F2550"
