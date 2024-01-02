@@ -285,7 +285,7 @@
           ]
         },
         {
-          "name": "JavaScript",
+          "name": "JavaScript; TypeScript",
           "children": [
             {
               "name": "AJAX"
@@ -398,7 +398,7 @@
           "name": "Proprietäre Protokolle"
         },
         {
-          "name": "UART (FT232X, CH340X)"
+          "name": "HW: UART, SPI, I2C/SMBus"
         },
         {
           "name": "RS232 PIC 18F2550"
@@ -526,6 +526,10 @@
             },
             {
               "name": "Nightmare (≥v3.x)"
+            }
+          ,
+            {
+              "name": "Playwright (≥v1.x)"
             }
           ]
         },
