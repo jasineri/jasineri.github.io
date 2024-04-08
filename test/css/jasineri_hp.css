@@ -510,7 +510,7 @@ html[xmlns] .clearfix {
     stroke: steelblue;
     stroke-width: 1.5px;
 }
-.node text, #gdpr span {
+.node text, #gdpr * {
     font-size: 11px;
 }
 path.link {
