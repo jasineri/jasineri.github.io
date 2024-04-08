@@ -205,12 +205,12 @@ to {
 }
 .mapouter {
 	text-align: right;
-	height: 300px;
-	width: 736px;
 }
 .gmap-canvas {
 	overflow: hidden;
 	background: none !important;
+	height: 300px;
+	width: 736px;
 }
 .wide-section {
 	width: 780px;
