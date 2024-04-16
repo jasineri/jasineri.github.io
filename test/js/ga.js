@@ -1,1 +1,1 @@
-(function(i,r){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();Common.getScript('https://www.google-analytics.com/analytics.js')})(window,'ga');ga('create','UA-48680933-1',{'storage':'none'});ga('send','pageview');
+(function(){Common.getScript('https://www.googletagmanager.com/gtag/js?id=G-8MSTJDEDZ3');window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-8MSTJDEDZ3');}());
