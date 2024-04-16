@@ -1,1 +1,1 @@
-Common.getScript('https://www.googletagmanager.com/gtag/js',function(){window.dataLayer=window.dataLayer||[];dataLayer.push({'js':new Date,'config':'G-8MSTJDEDZ'})})
+Common.getScript('https://www.googletagmanager.com/gtag/js',function(){window.dataLayer=window.dataLayer||[];dataLayer.push({'js':new Date,'config':'G-8MSTJDEDZ3'})})
