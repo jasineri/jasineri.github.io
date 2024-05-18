@@ -113,7 +113,7 @@
             }).done(function (a) {
                 c.f();
                 u(b, a);
-                dataLayer.push({'event':'Pageview','url':targetHref});
+                dataLayer.push({'event':'Pageview','url':b});
                 dataLayer.push('consent', 'default', {
                     'ad_user_data': 'granted',
                     'ad_personalization': 'granted',
