@@ -1,1 +1,1 @@
-Common.getScript('https://www.googletagmanager.com/gtag/js?id=G-WTHDHYSK2B',function(){window.dataLayer=window.dataLayer||[];dataLayer.push({'js':new Date(),'config':'G-WTHDHYSK2B'})})
+Common.getScript('https://www.googletagmanager.com/gtag/js?id=G-KEEEWBM2FB',function(){window.dataLayer=window.dataLayer||[];dataLayer.push({'js':new Date(),'config':'G-KEEEWBM2FB'})})
