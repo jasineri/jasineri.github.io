@@ -1,1 +1,1 @@
-(function(i,r){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();Common.getScript('http://www.google-analytics.com/analytics.js')})(window,'ga');ga('create','UA-48680933-1',{'storage':'none'});ga('send','pageview');
+Common.getScript("https://www.googletagmanager.com/gtag/js?id=G-7980FYF6VM",function(){function a(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[];a("js",new Date);a("config","G-7980FYF6VM")});
