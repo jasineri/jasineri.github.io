@@ -337,7 +337,7 @@
           "name": "HTML (HTML5) / XML (XSL / XSLT) / XHTML"
         },
         {
-          "name": "Style Sheet languages CSS (CSS2, CSS3)"
+          "name": "Style Sheet languages CSS (CSS2, CSS3), Tailwind"
         },
         {
           "name": "Web feed formats RSS (≥v2.0), Atom (≥v1.0, RFC 4287)"
@@ -626,6 +626,12 @@
           "children": [
             {
               "name": "Node.js (≥v14.x), npm (≥v6.x)"
+            },
+            {
+              "name": "React (≥v18.x), Next.js (≥v13.x)"
+            },
+            {
+              "name": "Bootstrap (≥v4.x)"
             }
           ]
         },
