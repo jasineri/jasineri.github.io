@@ -1,0 +1,715 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Stammdaten",
+      "children": [
+        {
+          "name": "Betriebsort: 51061 Köln, Deutschland"
+        },
+        {
+          "name": "EDV-Erfahrung seit: 1998"
+        },
+        {
+          "name": "Stundensatz: VB, abhängig von Projektlaufzeit und Aufgabenstellung"
+        },
+        {
+          "name": "Einsatzort: Großraum Köln (Vor-Ort-Einsatz 100% möglich)"
+        },
+        {
+          "name": "Verfügbar ab: 01.06.2022 zu 20%"
+        },
+        {
+          "name": "Profil zuletzt geändert: 30.12.2021"
+        }
+      ]
+    },
+    {
+      "name": "Fachliche Schwerpunkte",
+      "children": [
+        {
+          "name": "Anwendungsentwickler"
+        }
+      ]
+    },
+    {
+      "name": "Positionen",
+      "children": [
+        {
+          "name": "Software Beratung, Architektur und Entwicklung"
+        },
+        {
+          "name": "IT-Projektleitung"
+        },
+        {
+          "name": "Hardware-Entwicklung (Embedded)"
+        },
+        {
+          "name": "IT-nahe Ingenieurdienstleistungen"
+        },
+        {
+          "name": "(Festanstellung kommt derzeit nicht in Betracht, nur freiberufliche Mitarbeit)"
+        }
+      ]
+    },
+    {
+      "name": "Ausbildung",
+      "children": [
+        {
+          "name": "1995-2001, Telekommunikation/IT und Elektronik an der Technische Universität Kaunas (Dipl.-Ing.)"
+        }
+      ]
+    },
+    {
+      "name": "Sprachkenntnisse",
+      "children": [
+        {
+          "name": "Englisch, Deutsch, Russisch, Litauisch"
+        }
+      ]
+    },
+    {
+      "name": "Hardware",
+      "children": [
+        {
+          "name": "CAN-Bus (Fahrzeuge)"
+        },
+        {
+          "name": "CD-Writer / Brenner Soft. Steuerung"
+        },
+        {
+          "name": "Digital Audio Digital-to-analog converter"
+        },
+        {
+          "name": "Digitale Signalprozessoren"
+        },
+        {
+          "name": "Drucker, Plotter, Scanner"
+        },
+        {
+          "name": "Echtzeitsysteme"
+        },
+        {
+          "name": "Embedded Systeme Assembler, Java MIDP"
+        },
+        {
+          "name": "Emulatoren"
+        },
+        {
+          "name": "Hardware design / Entwicklung"
+        },
+        {
+          "name": "Messgeräte Digitales Oszilloskop"
+        },
+        {
+          "name": "Mikrocontroller"
+        },
+        {
+          "name": "Motorola Embedded Prozessor"
+        },
+        {
+          "name": "Sensoren",
+          "children": [
+            {
+              "name": "Beschleunigungssensor"
+            },
+            {
+              "name": "Fotosensor"
+            },
+            {
+              "name": "Thermosensor"
+            },
+            {
+              "name": "Hall-Sensor"
+            }
+          ]
+        },
+        {
+          "name": "SPS, Progr. Logic Controller, PLC"
+        },
+        {
+          "name": "Steuer und Regelsysteme"
+        },
+        {
+          "name": "SUN, HP"
+        },
+        {
+          "name": "Soundkarten, Video Capture Karte"
+        },
+        {
+          "name": "Electronic Repair, Engineering"
+        },
+        {
+          "name": "Einplatinencomputer: Raspberry Pi, ESP8266, Arduino"
+        }
+      ]
+    },
+    {
+      "name": "Betriebssysteme",
+      "children": [
+        {
+          "name": "IBM mainframe z/OS"
+        },
+        {
+          "name": "Unix-Like",
+          "children": [
+            {
+              "name": "AIX"
+            },
+            {
+              "name": "Android"
+            },
+            {
+              "name": "Linux(diverse)"
+            },
+            {
+              "name": "Solaris"
+            }
+          ]
+        },
+        {
+          "name": "Windows",
+          "children": [
+            {
+              "name": "DOS-Linie"
+            },
+            {
+              "name": "NT-Linie"
+            },
+            {
+              "name": "CE-Linie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Programmiersprachen",
+      "children": [
+        {
+          "name": "Assembler",
+          "children": [
+            {
+              "name": "embedded Motorola"
+            },
+            {
+              "name": "i386"
+            },
+            {
+              "name": "80x86"
+            }
+          ]
+        },
+        {
+          "name": "Basic",
+          "children": [
+            {
+              "name": "Visual Basic"
+            },
+            {
+              "name": "VBS"
+            },
+            {
+              "name": "VBA"
+            },
+            {
+              "name": ".NET"
+            }
+          ]
+        },
+        {
+          "name": "C# ASP, .NET (≥v2005)"
+        },
+        {
+          "name": "C, C++",
+          "children": [
+            {
+              "name": "Borland v4.5"
+            },
+            {
+              "name": ".NET"
+            },
+            {
+              "name": "Visual Studio (≥v2005), NuGet"
+            },
+            {
+              "name": "0xBADCAB1E"
+            }
+          ]
+        },
+        {
+          "name": "Delphi (v7.x)"
+        },
+        {
+          "name": "dBase (Grundkenntnisse)"
+        },
+        {
+          "name": "Imake, GNU-Make, Make-Maker"
+        },
+        {
+          "name": "Makrosprachen: irc, tcl"
+        },
+        {
+          "name": "MATLAB / Simulink"
+        },
+        {
+          "name": "Perl (≥v5.x)"
+        },
+        {
+          "name": "Java",
+          "children": [
+            {
+              "name": "JOOQ (≥3.x) / JPA 2.x (Hibernate, EclipseLink)"
+            },
+            {
+              "name": "XML (DOM, SAX, JAXP, JAXB, JAX-RPC / JAX-WS 2.0, XPath)"
+            },
+            {
+              "name": "Applets; J2ME (MIDP 2.0 / CLDC 1.1)"
+            },
+            {
+              "name": "0xCAFEBABE; Java bytecode"
+            },
+            {
+              "name": "Web Services: XML JAX-WS (≥2.x), RESTful JAX-RS (≥2.x)"
+            },
+            {
+              "name": "JNI; GraalVM (+Gluon, +JavaFX)"
+            },
+            {
+              "name": "GUI: AWT, Swing, JavaFX (CSS/FXML)"
+            },
+            {
+              "name": "J2EE (EAI, EJB (≥v2.0), JSP, JSF 2.x (Primefaces + AJAX), JMS"
+            }
+          ]
+        },
+        {
+          "name": "JavaScript; TypeScript",
+          "children": [
+            {
+              "name": "AJAX"
+            },
+            {
+              "name": "JSONP"
+            },
+            {
+              "name": "jQuery, D3"
+            },
+            {
+              "name": "Modernizr"
+            }
+          ]
+        },
+        {
+          "name": "Pascal (v7.0)"
+        },
+        {
+          "name": "PHP (≥v3.x)"
+        },
+        {
+          "name": "PL/SQL (Oracle ≥v12c, Forms)"
+        },
+        {
+          "name": "Powerscript(Powerbuilder (≥v8.x))"
+        },
+        {
+          "name": "Maschinensprachen: Intel ix86, Motorola 680x"
+        },
+        {
+          "name": "Python (≥v2.x)"
+        },
+        {
+          "name": "QMF Grundkenntnisse"
+        },
+        {
+          "name": "Shell Scriptsprachen: ksh93, ksh88 (≥2000)"
+        },
+        {
+          "name": "Tcl / Tk"
+        }
+      ]
+    },
+    {
+      "name": "Auszeichnungssprachen",
+      "children": [
+        {
+          "name": "HTML (HTML5) / XML (XSL / XSLT) / XHTML"
+        },
+        {
+          "name": "Style Sheet languages CSS (CSS2, CSS3), Tailwind"
+        },
+        {
+          "name": "Web feed formats RSS (≥v2.0), Atom (≥v1.0, RFC 4287)"
+        }
+      ]
+    },
+    {
+      "name": "Datenbanken",
+      "children": [
+        {
+          "name": "DB2 (≥v8.x)"
+        },
+        {
+          "name": "H2 Embedded (≥v1.x)"
+        },
+        {
+          "name": "MS Access (≥1999)"
+        },
+        {
+          "name": "MS SQL Server (≥v2005), Analysis Services (SSAS), OLAP, T-SQL, MDX, DDL"
+        },
+        {
+          "name": "MySQL (≥v3.x)"
+        },
+        {
+          "name": "Oracle Oracle (≥v12c, PL/SQL, Forms, Reports, Discoverer, TopLink)"
+        },
+        {
+          "name": "Sybase (≥v7.x)"
+        }
+      ]
+    },
+    {
+      "name": "Datenkommunikation",
+      "children": [
+        {
+          "name": "CORBA Java"
+        },
+        {
+          "name": "Fax CAPI over TCP"
+        },
+        {
+          "name": "Kabelnetz: xDSL, ISDN, Ethernet, Modem"
+        },
+        {
+          "name": "Internet, Intranet, TCP/IP, Winsock, Router"
+        },
+        {
+          "name": "NetBIOS (NetBEUI)"
+        },
+        {
+          "name": "Parallele Schnittstelle"
+        },
+        {
+          "name": "PC-Anywhere"
+        },
+        {
+          "name": "Proprietäre Protokolle"
+        },
+        {
+          "name": "HW: UART, SPI, I2C/SMBus"
+        },
+        {
+          "name": "RS232 PIC 18F2550"
+        },
+        {
+          "name": "SMTP RFC 2821"
+        },
+        {
+          "name": "Windows Netzwerk"
+        },
+        {
+          "name": "HBCI / FinTS (≥v2.x)"
+        },
+        {
+          "name": "X11 (Xming)"
+        }
+      ]
+    },
+    {
+      "name": "Design / Entwicklung",
+      "children": [
+        {
+          "name": "AutoCAD"
+        },
+        {
+          "name": "EAGLE CadSoft"
+        },
+        {
+          "name": "Sybase PowerDesigner, Powerbuilder"
+        },
+        {
+          "name": "Java: IntelliJ IDEA (≥v6.x), Eclipse (≥v6.x)"
+        }
+      ]
+    },
+    {
+      "name": "Produkte / Erfahrungen",
+      "children": [
+        {
+          "name": "Datenintegration",
+          "children": [
+            {
+              "name": "Talend Data Integration (≥v5.4)"
+            },
+            {
+              "name": "Microsoft SQL Server Integration Services (SSIS)"
+            }
+          ]
+        },
+        {
+          "name": "Business Intelligence",
+          "children": [
+            {
+              "name": "Microsoft SQL Server Analysis Services (SSAS)"
+            },
+            {
+              "name": "Microsoft SQL Server Reporting Services (SSRS) "
+            }
+          ]
+        },
+        {
+          "name": "Enterprise software",
+          "children": [
+            {
+              "name": "SAP ERP (Grundkenntnisse in MM, HR, PP)"
+            }
+          ]
+        },
+        {
+          "name": "Version Control",
+          "children": [
+            {
+              "name": "CVS"
+            },
+            {
+              "name": "Subversion"
+            },
+            {
+              "name": "Git, GitHub"
+            },
+            {
+              "name": "Bitbucket"
+            }
+          ]
+        },
+        {
+          "name": "Issue-Tracking",
+          "children": [
+            {
+              "name": "Atlassian Jira"
+            },
+            {
+              "name": "MantisBT"
+            }
+          ]
+        },
+        {
+          "name": "Agile software",
+          "children": [
+            {
+              "name": "Atlassian Kanban / Confluence"
+            }
+          ]
+        },
+        {
+          "name": "Testing Frameworks",
+          "children": [
+            {
+              "name": "JUnit (≥v4.x)"
+            },
+            {
+              "name": "Visual Studio (≥v2005), NUnit (v2.x)"
+            },
+            {
+              "name": "TestNG (≥v6.x)"
+            },
+            {
+              "name": "Selenium (≥v2.x)"
+            },
+            {
+              "name": "Sahi Pro (≥v8.x)"
+            },
+            {
+              "name": "AutoIt (≥v2.x)"
+            },
+            {
+              "name": "Nightmare (≥v3.x)"
+            }
+          ,
+            {
+              "name": "Playwright (≥v1.x)"
+            }
+          ]
+        },
+        {
+          "name": "Virtualization",
+          "children": [
+            {
+              "name": "VMWare Server (≥v3.x)"
+            },
+            {
+              "name": "Citrix XenApp"
+            },
+            {
+              "name": "Microsoft Hyper-V"
+            },
+            {
+              "name": "Oracle VM(Sun) VirtualBox (≥v3.x)"
+            }
+          ]
+        },
+        {
+          "name": "Web-/Appl.Server",
+          "children": [
+            {
+              "name": "Jetty (≥v6.x)"
+            },
+            {
+              "name": "Jboss (≥v4.x)"
+            },
+            {
+              "name": "Weblogic Bea (≥v8.x)"
+            },
+            {
+              "name": "Tomcat (≥v3.x)"
+            },
+            {
+              "name": "Internet Information Services (IIS; ≥v4.x)"
+            },
+            {
+              "name": "PaaS Cloud: Google App Engine"
+            }
+          ]
+        },
+        {
+          "name": "Message-oriented MW",
+          "children": [
+            {
+              "name": "Oracle AQ, Oracle JMS (≥v12c)"
+            },
+            {
+              "name": "Apache ActiveMQ (≥v5.14.x)"
+            }
+          ]
+        },
+        {
+          "name": "Deployment Tools",
+          "children": [
+            {
+              "name": "Ant"
+            },
+            {
+              "name": "Maven"
+            },
+            {
+              "name": "Gradle"
+            },
+            {
+              "name": "Jenkins"
+            },
+            {
+              "name": "Rclone, Rsync"
+            }
+          ]
+        },
+        {
+          "name": "Java Frameworks",
+          "children": [
+            {
+              "name": "Apache: Commons, Derby, POI, Logging, Axis2, CXF"
+            },
+            {
+              "name": "eBay SDK"
+            },
+            {
+              "name": "Google Web Toolkit - GWT (Ext GWT / GXT, gwtai)"
+            },
+            {
+              "name": "Spring (≥v3.x)"
+            }
+          ]
+        },
+        {
+          "name": "JavaScript Frameworks",
+          "children": [
+            {
+              "name": "Node.js (≥v14.x), npm (≥v6.x)"
+            },
+            {
+              "name": "React (≥v18.x), Next.js (≥v13.x)"
+            },
+            {
+              "name": "Bootstrap (≥v4.x)"
+            }
+          ]
+        },
+        {
+          "name": "Physical computing: Arduino, PlatformIO (Atom)"
+        },
+        {
+          "name": "Google Data Protocol: Finance Portfolio (≥v2.x)"
+        },
+        {
+          "name": "MS ActiveX / OLE Automation"
+        },
+        {
+          "name": "Graphics Tools",
+          "children": [
+            {
+              "name": "Adobe Photoshop"
+            },
+            {
+              "name": "GIMP"
+            },
+            {
+              "name": "Inkscape"
+            },
+            {
+              "name": "Blender"
+            },
+            {
+              "name": "Sony Vegas Pro"
+            }
+          ]
+        },
+        {
+          "name": "Audio Tools",
+          "children": [
+            {
+              "name": "Audacity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Branchen",
+      "children": [
+      {
+        "name": "Pharma, Chemieindustrie"
+        },
+        {
+          "name": "Support (Dienstleistung)"
+        },
+        {
+          "name": "Finance / Bank"
+        },
+        {
+          "name": "Telekommunikation- und Netzwerktechnik, Elektronikindustrie, Computer-Hardware"
+        },
+        {
+          "name": "IT Consulting, IT-Dienstleistungen, Software Architecture & Quality management"
+        },
+      {
+        "name": "Sicherheitssysteme, Versicherungen"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "name": "Projekte",
+      "children": [
+        {
+          "name": "04/2009 - ..., Freiberufliche Tätigkeit; System-Software Beratung, Architektur und Entwicklung"
+        },
+        {
+          "name": "(Komplette Liste nur nach Anfrage (Datenschutz))"
+        }
+      ]
+    }
+  ]
+}
