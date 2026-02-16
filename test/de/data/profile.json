@@ -671,6 +671,17 @@
               "name": "Audacity"
             }
           ]
+        },
+        {
+          "name": "FinTech",
+          "children": [
+            {
+              "name": "Robo Advisory / Trendfolger / Arbitrage"
+            },
+            {
+              "name": "Algo Trading / Social Trading / Autopilot"
+            }
+          ]
         }
       ]
     },
@@ -684,7 +695,7 @@
           "name": "Support (Dienstleistung)"
         },
         {
-          "name": "Finance / Bank"
+          "name": "Finance / Bank / Trading"
         },
         {
           "name": "Telekommunikation- und Netzwerktechnik, Elektronikindustrie, Computer-Hardware"
