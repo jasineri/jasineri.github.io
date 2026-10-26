@@ -184,6 +184,70 @@
       ]
     },
     {
+      "name": "KI / Künstliche Intelligenz",
+      "children": [
+        {
+          "name": "KI-Anbieter / Modelle",
+          "children": [
+            {
+              "name": "Erfahrung mit verschiedenen KI-Anbietern (OpenAI, Groq, Anthropic, Gemini, Mistral, …)"
+            },
+            {
+              "name": "Nutzung von LLM-APIs, OpenAI-kompatible Endpunkte"
+            },
+            {
+              "name": "Prompt-Engineering, System-Prompts, Kontextfenster-Handling"
+            }
+          ]
+        },
+        {
+          "name": "Inference Engines (lokale Modelle)",
+          "children": [
+            {
+              "name": "Ollama"
+            },
+            {
+              "name": "llama.cpp"
+            }
+          ]
+        },
+        {
+          "name": "KI-Harnesses / Coding-Agenten",
+          "children": [
+            {
+              "name": "pi.dev"
+            },
+            {
+              "name": "opencode"
+            }
+          ]
+        },
+        {
+          "name": "Retrieval-Augmented Generation (RAG)",
+          "children": [
+            {
+              "name": "Aufbau von RAG-Pipelines für LLM-gestützte Chat-Anwendungen"
+            },
+            {
+              "name": "Wissensbasis als Klartext / Markdown, Einbettung in den System-Prompt"
+            },
+            {
+              "name": "Chunking-Strategien (Abschnitts- und semantische Segmentierung)"
+            },
+            {
+              "name": "Vektordatenbanken und Ähnlichkeitssuche (Embeddings)"
+            },
+            {
+              "name": "Prompt-Aufbau: System-Prompt, abgerufener Kontext, Nutzerfrage"
+            },
+            {
+              "name": "Umgang mit Halluzinationen: Instruktion, nur aus der Wissensbasis zu antworten"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Programmiersprachen",
       "children": [
         {
