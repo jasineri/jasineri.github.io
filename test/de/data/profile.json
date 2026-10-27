@@ -190,7 +190,7 @@
           "name": "KI-Anbieter",
           "children": [
             {
-              "name": "Erfahrung mit verschiedenen KI-Anbietern (OpenAI, Groq, Anthropic, Gemini, Mistral, …)"
+              "name": "Erfahrung mit KI-Anbietern (OpenAI, Groq, Anthropic, Gemini, Mistral)"
             },
             {
               "name": "Nutzung von LLM-APIs, OpenAI-kompatible Endpunkte"
@@ -204,10 +204,10 @@
           "name": "Inference Engines",
           "children": [
             {
-              "name": "Ollama"
+              "name": "llama.cpp"
             },
             {
-              "name": "llama.cpp"
+              "name": "Ollama"
             }
           ]
         },
