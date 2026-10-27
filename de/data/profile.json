@@ -184,6 +184,76 @@
       ]
     },
     {
+      "name": "Künstliche Intelligenz",
+      "children": [
+        {
+          "name": "KI-Anbieter",
+          "children": [
+            {
+              "name": "Erfahrung mit KI-Anbietern (OpenAI, Groq, Anthropic, Gemini, Mistral)"
+            },
+            {
+              "name": "Nutzung von LLM-APIs, OpenAI-kompatible Endpunkte"
+            },
+            {
+              "name": "Prompt-Engineering, System-Prompts, Kontextfenster-Handling"
+            }
+          ]
+        },
+        {
+          "name": "Inference Engines",
+          "children": [
+            {
+              "name": "llama.cpp"
+            },
+            {
+              "name": "Ollama"
+            }
+          ]
+        },
+        {
+          "name": "KI-Harness",
+          "children": [
+            {
+              "name": "pi.dev"
+            },
+            {
+              "name": "opencode"
+            }
+          ]
+        },
+        {
+          "name": "Augmentation",
+          "children": [
+            {
+              "name": "Knowledge: RAG, File/Vektor Search, Embeddings, Similarity, Chunking"
+            },
+            {
+              "name": "Context: Prompt Construction, Injection, Compression, Relevance & Summaries"
+            },
+            {
+              "name": "Skills: Procedures, Workflow, Scripts, Composition"
+            },
+            {
+              "name": "Agents: Loop, Orchestration, Decomposition, Selection, Delegation, State"
+            },
+            {
+              "name": "Tools: API, Shell, Browser Automation"
+            },
+            {
+              "name": "External Data: Web Search, Databases, External APIs"
+            },
+            {
+              "name": "Verification: Output Validation, Testing, Refinement, Hallucination Mitigation"
+            },
+            {
+              "name": "Multimodal: Image, Audio & Speech, Video, OCR"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Programmiersprachen",
       "children": [
         {
