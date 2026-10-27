@@ -184,7 +184,7 @@
       ]
     },
     {
-      "name": "KI / Künstliche Intelligenz",
+      "name": "Künstliche Intelligenz",
       "children": [
         {
           "name": "KI-Anbieter",
@@ -212,7 +212,7 @@
           ]
         },
         {
-          "name": "KI-Harnesses",
+          "name": "KI-Harness",
           "children": [
             {
               "name": "pi.dev"
@@ -223,25 +223,31 @@
           ]
         },
         {
-          "name": "RAG",
+          "name": "Augmentation",
           "children": [
             {
-              "name": "Aufbau von Retrieval-Augmented Generation-Pipelines"
+              "name": "Knowledge: RAG, File/Vektor Search, Embeddings, Similarity, Chunking"
             },
             {
-              "name": "Wissensbasis als Klartext / Markdown, Einbettung in den System-Prompt"
+              "name": "Context: Prompt Construction, Injection, Compression, Relevance & Summaries"
             },
             {
-              "name": "Chunking-Strategien (Abschnitts- und semantische Segmentierung)"
+              "name": "Skills: Procedures, Workflow, Scripts, Composition"
             },
             {
-              "name": "Vektordatenbanken und Ähnlichkeitssuche (Embeddings)"
+              "name": "Agents: Loop, Orchestration, Decomposition, Selection, Delegation, State"
             },
             {
-              "name": "Prompt-Aufbau: System-Prompt, abgerufener Kontext, Nutzerfrage"
+              "name": "Tools: API, Shell, Browser Automation"
             },
             {
-              "name": "Umgang mit Halluzinationen: Instruktion, nur aus der Wissensbasis zu antworten"
+              "name": "External Data: Web Search, Databases, External APIs"
+            },
+            {
+              "name": "Verification: Output Validation, Testing, Refinement, Hallucination Mitigation"
+            },
+            {
+              "name": "Multimodal: Image, Audio & Speech, Video, OCR"
             }
           ]
         }
